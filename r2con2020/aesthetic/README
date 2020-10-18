@@ -3,7 +3,7 @@ aesthetic challenge: Using differential fault analysis attacks against AES
 
 
 # Dependencies
-phoenixAES: a tool to perform differential fault analysis attacks (DFA) against AES
+phoenixAES: a tool to perform differential fault analysis attacks (DFA) 
 r2pipe permits interacting with r2 instances
 
 git clone https://github.com/SideChannelMarvels/Stark 
