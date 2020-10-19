@@ -11,7 +11,7 @@ import phoenixAES
 
 # first blood:
 # https://github.com/BlackVS/CTFs/tree/master/r2con2020/tasks/aesthetic
-# Extract data from binary for generating inverse functions and finally the aes key.
+# Extract tables from binary for generating inverse functions and finally the aes key.
 
 def crack(f):
     return phoenixAES.crack_file(f,outputbeforelastrounds=False, verbose=0)
